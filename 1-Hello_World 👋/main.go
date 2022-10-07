@@ -10,5 +10,5 @@ func main() {
 	// Println is a function of fmt package
 	// Println is used to print data on console with new line
 
-	fmt.Println("hello")
+	fmt.Println("hello") // hello
 }
