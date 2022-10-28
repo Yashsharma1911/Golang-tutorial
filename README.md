@@ -4,9 +4,11 @@
 </p>
 
 ## Contribution
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. [Please check contribution guidelines for more information](./CONTRIBUTING.md)
 
 ## Contact me
+
 Website: [https://yashsharma.netlify.app/](https://yashsharma.netlify.app/)
 
 Email: yashsharma2572@gmail.com
