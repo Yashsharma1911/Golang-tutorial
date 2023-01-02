@@ -25,7 +25,7 @@ Here are some of the common functions that you can use from the fmt package:
 fmt.Print("Hello, world!\n")
 ```
 
-fmt.Println(): This function is similar to fmt.Print(), but it adds a newline at the end of the output.
+`fmt.Println()`: This function is similar to fmt.Print(), but it adds a newline at the end of the output.
 
 ```
 // Print a string with a newline at the end
