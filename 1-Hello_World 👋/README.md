@@ -18,15 +18,15 @@ Here are some of the common functions that you can use from the fmt package:
 
 ## Some Use cases
 
-`fmt.Print()`: This function prints a string to the console, followed by a newline.
+1. `fmt.Print()`: This function prints a string to the console, followed by a newline.
 
 ```
 // Print a string to the console
 fmt.Print("Hello, world!\n")
 ```
-
 <br>
-`fmt.Println()`: This function is similar to fmt.Print(), but it adds a newline at the end of the output.
+
+2. `fmt.Println()`: This function is similar to fmt.Print(), but it adds a newline at the end of the output.
 
 ```
 // Print a string with a newline at the end
@@ -34,7 +34,8 @@ fmt.Println("Hello, world!")
 ```
 
 <br>
-`fmt.Printf()`: This function allows you to use a format string to specify how the output should be formatted. You can use this function to print values of different types, such as integers, floating-point numbers, and strings.
+
+3. `fmt.Printf()`: This function allows you to use a format string to specify how the output should be formatted. You can use this function to print values of different types, such as integers, floating-point numbers, and strings.
 
 ```
 // Print a floating-point number
@@ -42,7 +43,8 @@ fmt.Printf("%.2f", 3.14159)
 ```
 
 <br>
-`fmt.Sprintf()`: This function is similar to fmt.Printf(), but it returns the formatted string instead of printing it to the console.
+
+4. `fmt.Sprintf()`: This function is similar to fmt.Printf(), but it returns the formatted string instead of printing it to the console.
 
 ```
 // Use Sprintf to create a formatted string
