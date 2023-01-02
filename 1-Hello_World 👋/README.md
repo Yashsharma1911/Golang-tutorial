@@ -25,6 +25,7 @@ Here are some of the common functions that you can use from the fmt package:
 fmt.Print("Hello, world!\n")
 ```
 
+<br>
 `fmt.Println()`: This function is similar to fmt.Print(), but it adds a newline at the end of the output.
 
 ```
@@ -32,6 +33,7 @@ fmt.Print("Hello, world!\n")
 fmt.Println("Hello, world!")
 ```
 
+<br>
 `fmt.Printf()`: This function allows you to use a format string to specify how the output should be formatted. You can use this function to print values of different types, such as integers, floating-point numbers, and strings.
 
 ```
@@ -39,6 +41,7 @@ fmt.Println("Hello, world!")
 fmt.Printf("%.2f", 3.14159)
 ```
 
+<br>
 `fmt.Sprintf()`: This function is similar to fmt.Printf(), but it returns the formatted string instead of printing it to the console.
 
 ```
@@ -46,3 +49,5 @@ fmt.Printf("%.2f", 3.14159)
 s := fmt.Sprintf("%s is %d years old", "Alice", 30)
 fmt.Println(s)
 ```
+
+<br>
