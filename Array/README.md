@@ -1,4 +1,8 @@
+<p align="center">
+
 # Array in Golang
+
+</p>
 
 ## What is Array in Golang
 
