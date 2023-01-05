@@ -1,11 +1,7 @@
-<p align="center">
-
-# Array in Golang
-
-</p>
-
-## What is Array in Golang
-
+<span align="center">
+ <h1>Array in Golang</h1>
+</span>
+<br>
 In Go, an array is a fixed-size sequence of elements of the same type. The size of an array is part of its type, so the types [10]int and [20]int are distinct.
 
 Here is the syntax for declaring an array in Go:
