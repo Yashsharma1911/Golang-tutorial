@@ -1,6 +1,8 @@
-# Fmt package
-
-## Why to Use Fmt package
+<span align="center">
+ <h1>Hello World 👋</h1>
+</span>
+<br>
+## What is Fmt package
 
 The fmt package is a standard library package in Go that provides functions for formatted I/O operations. It includes functions for printing to the console, reading from and writing to files, and formatting strings.
 
@@ -24,6 +26,7 @@ Here are some of the common functions that you can use from the fmt package:
 // Print a string to the console
 fmt.Print("Hello, world!\n")
 ```
+
 <br>
 
 2. `fmt.Println()`: This function is similar to fmt.Print(), but it adds a newline at the end of the output.
