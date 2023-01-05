@@ -2,6 +2,7 @@
  <h1>Hello World 👋</h1>
 </span>
 <br>
+
 ## What is Fmt package ?
 
 The fmt package is a standard library package in Go that provides functions for formatted I/O operations. It includes functions for printing to the console, reading from and writing to files, and formatting strings.
