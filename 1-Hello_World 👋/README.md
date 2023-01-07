@@ -1,7 +1,6 @@
 <span align="center">
  <h1>Hello World 👋</h1>
 </span>
-<br>
 
 ## What is Fmt package ?
 
