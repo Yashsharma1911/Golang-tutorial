@@ -1,7 +1,15 @@
 <h1 align="center">Golang</h1>
 <p align="center">
-  <img width="500" height="500" src="./golang.gif">
+  <img width="300" height="300" src="./golang.gif">
 </p>
+
+## Hellow World
+
+- [Notes](https://github.com/Yashsharma1911/Golang-tutorial/blob/main/1-Hello_World%20%F0%9F%91%8B/README.md)
+- [Main.go file](https://github.com/Yashsharma1911/Golang-tutorial/blob/main/1-Hello_World%20%F0%9F%91%8B/main.go)
+
+<br>
+
 
 ## Contribution
 
