@@ -59,4 +59,4 @@ if err != nil {
 ```
 ## Explore other packages
 
-- [Ioutil package](File/common-package)
+- [Ioutil package](https://github.com/Yashsharma1911/Golang-tutorial/blob/main/File/common-packages/ioutil_package.md)
