@@ -57,3 +57,6 @@ if err != nil {
     log.Fatal(err)
 }
 ```
+## Explore other packages
+
+- [Ioutil package](File/common-package)
