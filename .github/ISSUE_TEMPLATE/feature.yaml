@@ -1,0 +1,29 @@
+name: 🚀 Feature
+description: Report a feature
+title: "🚀 Feature: <Title>"
+labels: [Enhancement]
+body:
+  - type: textarea
+    attributes:
+      label: 📜 Feature Description
+      description: Please describe the feature.;
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: 🎤 Pitch
+      description: Write your pitch here...
+    validations:
+      required: false
+  - type: checkboxes
+    attributes:
+      label: 👀 Have you spent some time to check if this issue has been raised before?
+      options:
+        - label: I checked and didn't find similar issue
+          required: true
+  - type: checkboxes
+    attributes:
+      label: 🔖 Have you read the Code of Conduct?
+      options:
+        - label: Yes, I have read Code of Conduct.
+          required: true

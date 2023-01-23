@@ -1,0 +1,25 @@
+name: 📚 Documentation
+description: Report an issue related to documentation
+title: "📚 Documentation: <Title>"
+labels: [Enhancement]
+body:
+  - type: textarea
+    attributes:
+      label: 💬 Description
+      description: A concise description of what you're experiencing.
+    validations:
+      required: false
+  - type: checkboxes
+    attributes:
+      label: 👀 Have you spent some time to check if this issue has been raised before?
+      description: I checked and didn't find similar issue
+      options:
+        - label: I checked and didn't find similar issue
+          required: true
+  - type: checkboxes
+    attributes:
+      label: 🔖 Have you read the Code of Conduct?
+      description: Please search to see if an issue already exists for the bug or typo error you wanna add.
+      options:
+        - label: Please search to see if an issue already exists for the bug or typo error you wanna add.
+          required: true
