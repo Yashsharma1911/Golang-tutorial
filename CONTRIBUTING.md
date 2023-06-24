@@ -95,11 +95,11 @@ People _love_ thorough bug reports. I'm not even kidding.
 
 **After doing changes do the followings**
 - Open terminal for project directory in code-editor
+- Create a new branch by typing `git checkout -b <NEW_BRANCH_NAME>`
 - Type `git status` to check the non stagged file
 - Type `git add <file_name>` to stage the files
 - Type `git commit -m "<COMMIT_MSG>"`
   [ COMMIT_MSG ] should contain the meaningful text about file changes
-- Create a new branch by typing `git checkout -b <NEW_BRANCH_NAME>`
 - Type `git push origin <NEW_BRANCH_NAME>`
 
 **After pushing changes to local your repo do the followings**
