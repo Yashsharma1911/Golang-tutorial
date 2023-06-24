@@ -1,5 +1,5 @@
 <span align="center">																													
-<h1>if-else statement in goLang</h1>
+<h1>if-else statement in Golang</h1>
 </span>
 
 ## Why do we use if statement in Go?
