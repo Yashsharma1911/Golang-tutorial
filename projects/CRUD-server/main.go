@@ -11,7 +11,7 @@ import (
 
 const (
 	dbUser     = "mongo_db_admin"   // MongoDB database user
-	dbPassword = "EXAMPLE_PASSWORD" // MongoDB database password
+	dbPassword = "25JUL2001" // MongoDB database password
 	dbName     = "account_db"      // MongoDB database name
 )
 
