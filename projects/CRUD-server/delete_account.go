@@ -9,8 +9,8 @@ import (
 )
 
 func deleteAccount(collection *mongo.Collection, ctx context.Context, data map[string]interface{}) (map[string]interface{}, error) {
-	// Delete the document in the collection that matches the provided product ID
-	_, err := collection.DeleteOne(ctx, bson.M{"product_id": data["product_id"]})
+	// Delete the document in the collection that matches the provided name
+	_, err := collection.DeleteOne(ctx, bson.M{"name": data["name"]})
 
 	if err != nil {
 		return nil, err

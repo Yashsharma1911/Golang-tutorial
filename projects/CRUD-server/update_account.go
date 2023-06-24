@@ -9,8 +9,8 @@ import (
 )
 
 func updateAccount(collection *mongo.Collection, ctx context.Context, data map[string]interface{}) (map[string]interface{}, error) {
-	// Define the filter to identify the document to be updated based on the provided product ID
-	filter := bson.M{"product_id": data["product_id"]}
+	// Define the filter to identify the document to be updated based on the provided name
+	filter := bson.M{"name": data["name"]}
 
 	// Define the fields to be updated using the provided data
 	fields := bson.M{"$set": data}

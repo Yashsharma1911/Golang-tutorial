@@ -11,7 +11,7 @@ import (
 
 const (
 	dbUser     = "mongo_db_admin"   // MongoDB database user
-	dbPassword = "EXAMPLE_PASSWORD" // MongoDB database password
+	dbPassword = "25JUL2001" // MongoDB database password
 	dbName     = "account_db"      // MongoDB database name
 )
 
@@ -32,7 +32,7 @@ func accountsHandler(w http.ResponseWriter, r *http.Request) {
 		fmt.Println(err.Error())
 	}
 
-	collection := client.Database(dbName).Collection("accounts") // Get the "accounts" collection from the database
+	collection := client.Database(dbName).Collection("info") // Get the "accounts" collection from the database
 
 	data := map[string]interface{}{} // Map to store the JSON data from the request body
 
