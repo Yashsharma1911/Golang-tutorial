@@ -5,7 +5,7 @@
 ## Concurrency vs Parallelism?
 - Concurrency :-
     - Basically concurrency means that you suppose to perform multiple tasks but actually your performing a single task at a time.
-    - For, Example Let assume that your are eating some food in front of your TV. Suddenly you started feeling hot so you have to start AC. Now in this scenario If you want to start the AC than you have to stop eating in order to turn on the AC. Similarly if you want to change you TV channel than you have to stop eating.
+    - For, Example Let's assume that you are eating some food in front of your TV. Suddenly you started feeling hot so you have to start AC. Now in this scenario, If you want to start the AC then you have to stop eating in order to turn on the AC. Similarly, if you want to change your TV channel then you have to stop eating.
     - Basically from our story we can say that you are suppose to perform multiple tasks but at a particular moment you can perform only task.This is known as Concurrency.
 
 - Parallelism :-
