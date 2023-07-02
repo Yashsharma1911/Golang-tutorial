@@ -1,7 +1,16 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"net/http"
+)
 
 func main() {
-	fmt.Println("Hello From Mutex tutorial.")
+	var site = "google.com"
+	res, err := http.Get(site)
+
+	if err != nil {
+		fmt.Println("OOPS in endpoint")
+	}
+	fmt.Printf("%d status code for %s", res.StatusCode, site)
 }
