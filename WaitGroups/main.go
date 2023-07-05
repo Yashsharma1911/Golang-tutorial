@@ -41,4 +41,6 @@ func statusCode(site string) {
 		panic("Error In website :(")
 	}
 	fmt.Printf("%d is status code for %s\n", res.StatusCode, site)
+
+	defer res.Body.Close()
 }
