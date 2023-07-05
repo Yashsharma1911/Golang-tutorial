@@ -96,12 +96,13 @@
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. [Please check contribution guidelines for more information](./CONTRIBUTING.md)
 
-## Contact me
+## Contributors
 
-Website: [https://yashsharma.netlify.app/](https://yashsharma.netlify.app/)
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-Email: yashsharma2572@gmail.com
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
-Twitter: [yashsharma_f](https://twitter.com/yashsharma_f)
-
-Linkedin: [Yash sharma](https://www.linkedin.com/in/yash-sharma-4276b61b5/)
+<!-- ALL-CONTRIBUTORS-LIST:END -->
