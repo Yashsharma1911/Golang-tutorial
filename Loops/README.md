@@ -1,4 +1,4 @@
-# Loops in Golang
+<h1 align="center"> Loops in Golang </h1>
 
 ## Description
 
