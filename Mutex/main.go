@@ -7,7 +7,6 @@ import (
 
 var mut sync.Mutex    //should be pointer
 var wg sync.WaitGroup //should be pointer
-
 var list = []string{"Hello World"}
 
 func main() {
