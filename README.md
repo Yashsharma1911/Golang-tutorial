@@ -1,4 +1,9 @@
 <h1 align="center">Golang</h1>
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+<p align="center">
+  <img src="https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square" alt="All Contributors">
+</p>
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 <p align="center">
   <img width="300" height="300" src="./golang.gif">
 </p>
@@ -96,12 +101,27 @@
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. [Please check contribution guidelines for more information](./CONTRIBUTING.md)
 
-## Contact me
+## Contributors
 
-Website: [https://yashsharma.netlify.app/](https://yashsharma.netlify.app/)
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SagarSingh2003"><img src="https://avatars.githubusercontent.com/u/129133613?v=4?s=100" width="100px;" alt="Sagar Singh"/><br /><sub><b>Sagar Singh</b></sub></a><br /><a href="https://github.com/Yashsharma1911/Golang-tutorial/commits?author=SagarSingh2003" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
 
-Email: yashsharma2572@gmail.com
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
-Twitter: [yashsharma_f](https://twitter.com/yashsharma_f)
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
-Linkedin: [Yash sharma](https://www.linkedin.com/in/yash-sharma-4276b61b5/)
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
