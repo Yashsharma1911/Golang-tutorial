@@ -55,6 +55,16 @@
         "code",
         "review"
       ]
+    },
+    {
+      "login": "bvvnmanikanta",
+      "name": "Manikanta Bollapragada",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25924707?v=4",
+      "profile": "https://github.com/bvvnmanikanta",
+      "contributions": [
+        "doc",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
