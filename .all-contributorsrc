@@ -25,6 +25,15 @@
         "review",
         "maintenance"
       ]
+    },
+    {
+      "login": "bvvnmanikanta",
+      "name": "Manikanta Bollapragada",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25924707?v=4",
+      "profile": "https://github.com/bvvnmanikanta",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
