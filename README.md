@@ -1,6 +1,8 @@
 <h1 align="center">Golang</h1>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+<p align="center">
+  <img src="https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square" alt="All Contributors">
+</p>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <p align="center">
   <img width="300" height="300" src="./golang.gif">
