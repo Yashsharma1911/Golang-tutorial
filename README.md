@@ -1,6 +1,6 @@
 <h1 align="center">Golang</h1>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <p align="center">
   <img width="300" height="300" src="./golang.gif">
@@ -108,11 +108,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SagarSingh2003"><img src="https://avatars.githubusercontent.com/u/129133613?v=4?s=100" width="100px;" alt="Sagar Singh"/><br /><sub><b>Sagar Singh</b></sub></a><br /><a href="https://github.com/Yashsharma1911/Golang-tutorial/commits?author=SagarSingh2003" title="Documentation">📖</a></td>
-
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/CulturalProfessor"><img src="https://avatars.githubusercontent.com/u/92238941?v=4?s=100" width="100px;" alt="Vinayak Sharma"/><br /><sub><b>Vinayak Sharma</b></sub></a><br /><a href="https://github.com/Yashsharma1911/Golang-tutorial/commits?author=CulturalProfessor" title="Documentation">📖</a> <a href="https://github.com/Yashsharma1911/Golang-tutorial/pulls?q=is%3Apr+reviewed-by%3ACulturalProfessor" title="Reviewed Pull Requests">👀</a></td>
-
-      <td align="center" valign="top" width="14.28%"><a href="https://yashsharma.netlify.app/"><img src="https://avatars.githubusercontent.com/u/71271069?v=4?s=100" width="100px;" alt="Yash sharma"/><br /><sub><b>Yash sharma</b></sub></a><br /><a href="https://github.com/Yashsharma1911/Golang-tutorial/pulls?q=is%3Apr+reviewed-by%3AYashsharma1911" title="Reviewed Pull Requests">👀</a></td>
-
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/CulturalProfessor"><img src="https://avatars.githubusercontent.com/u/92238941?v=4?s=100" width="100px;" alt="Vinayak Sharma"/><br /><sub><b>Vinayak Sharma</b></sub></a><br /><a href="https://github.com/Yashsharma1911/Golang-tutorial/commits?author=CulturalProfessor" title="Documentation">📖</a> <a href="https://github.com/Yashsharma1911/Golang-tutorial/commits?author=CulturalProfessor" title="Code">💻</a> <a href="https://github.com/Yashsharma1911/Golang-tutorial/pulls?q=is%3Apr+reviewed-by%3ACulturalProfessor" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://yashsharma.netlify.app/"><img src="https://avatars.githubusercontent.com/u/71271069?v=4?s=100" width="100px;" alt="Yash sharma"/><br /><sub><b>Yash sharma</b></sub></a><br /><a href="https://github.com/Yashsharma1911/Golang-tutorial/pulls?q=is%3Apr+reviewed-by%3AYashsharma1911" title="Reviewed Pull Requests">👀</a> <a href="https://github.com/Yashsharma1911/Golang-tutorial/commits?author=Yashsharma1911" title="Code">💻</a> <a href="https://github.com/Yashsharma1911/Golang-tutorial/commits?author=Yashsharma1911" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
