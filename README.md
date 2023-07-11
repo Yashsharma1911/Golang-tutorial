@@ -108,7 +108,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SagarSingh2003"><img src="https://avatars.githubusercontent.com/u/129133613?v=4?s=100" width="100px;" alt="Sagar Singh"/><br /><sub><b>Sagar Singh</b></sub></a><br /><a href="https://github.com/Yashsharma1911/Golang-tutorial/commits?author=SagarSingh2003" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Harsh4902"><img src="https://avatars.githubusercontent.com/u/84663071?v=4?s=100" width="100px;" alt="Harshvardhan Parmar"/><br /><sub><b>Harshvardhan Parmar</b></sub></a><br /><a href="https://github.com/Yashsharma1911/Golang-tutorial/commits?author=Harsh4902" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Harsh4902"><img src="https://avatars.githubusercontent.com/u/84663071?v=4?s=100" width="100px;" alt="Harshvardhan Parmar"/><br /><sub><b>Harshvardhan Parmar</b></sub></a><br /><a href="https://github.com/Yashsharma1911/Golang-tutorial/commits?author=Harsh4902" title="Code">💻</a> <a href="https://github.com/Yashsharma1911/Golang-tutorial/commits?author=Harsh4902" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
