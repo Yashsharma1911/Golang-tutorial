@@ -108,7 +108,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SagarSingh2003"><img src="https://avatars.githubusercontent.com/u/129133613?v=4?s=100" width="100px;" alt="Sagar Singh"/><br /><sub><b>Sagar Singh</b></sub></a><br /><a href="https://github.com/Yashsharma1911/Golang-tutorial/commits?author=SagarSingh2003" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://soumyadeeposd.github.io/Tensor-Block/"><img src="https://avatars.githubusercontent.com/u/115442240?v=4?s=100" width="100px;" alt="Soumyadeep Das Bhowmick"/><br /><sub><b>Soumyadeep Das Bhowmick</b></sub></a><br /><a href="https://github.com/Yashsharma1911/Golang-tutorial/commits?author=SoumyadeepOSD" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://soumyadeeposd.github.io/Tensor-Block/"><img src="https://avatars.githubusercontent.com/u/115442240?v=4?s=100" width="100px;" alt="Soumyadeep Das Bhowmick"/><br /><sub><b>Soumyadeep Das Bhowmick</b></sub></a><br /><a href="https://github.com/Yashsharma1911/Golang-tutorial/commits?author=SoumyadeepOSD" title="Documentation">📖</a> <a href="https://github.com/Yashsharma1911/Golang-tutorial/commits?author=SoumyadeepOSD" title="Code">💻</a></td>
     </tr>
   </tbody>
 </table>
