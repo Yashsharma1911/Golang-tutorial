@@ -24,9 +24,9 @@
       "contributions": [
         "code",
         "doc"
-        ]
+      ]
     },
-    {  
+    {
       "login": "Yashsharma1911",
       "name": "Yash sharma",
       "avatar_url": "https://avatars.githubusercontent.com/u/71271069?v=4",
@@ -34,6 +34,15 @@
       "contributions": [
         "review",
         "maintenance"
+      ]
+    },
+    {
+      "login": "Ghat0tkach",
+      "name": "Vikramaditya Singh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59855919?v=4",
+      "profile": "https://github.com/Ghat0tkach",
+      "contributions": [
+        "code"
       ]
     }
   ],
