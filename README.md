@@ -110,6 +110,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SagarSingh2003"><img src="https://avatars.githubusercontent.com/u/129133613?v=4?s=100" width="100px;" alt="Sagar Singh"/><br /><sub><b>Sagar Singh</b></sub></a><br /><a href="https://github.com/Yashsharma1911/Golang-tutorial/commits?author=SagarSingh2003" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://yashsharma.netlify.app/"><img src="https://avatars.githubusercontent.com/u/71271069?v=4?s=100" width="100px;" alt="Yash sharma"/><br /><sub><b>Yash sharma</b></sub></a><br /><a href="https://github.com/Yashsharma1911/Golang-tutorial/pulls?q=is%3Apr+reviewed-by%3AYashsharma1911" title="Reviewed Pull Requests">👀</a> <a href="#maintenance-Yashsharma1911" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
