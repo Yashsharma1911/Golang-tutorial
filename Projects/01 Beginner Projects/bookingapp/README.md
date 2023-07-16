@@ -4,6 +4,14 @@
     
 </span>
 
+## Note: 
+This project is just shared to help you get better in Golang ! The idea of this project belongs to [TechWorldWithNana](https://youtu.be/yyUHQIec83I) Youtube Channel and we don't claim to be it's owner. 
+
+## To learn how to build this application in a video format you can go the link below , have fun  :
+
+- [TechWorldWithNana- ticket booking cli app](https://youtu.be/yyUHQIec83I)
+
+## Aim :
 
 In this exercise we are going to create a ticket booking application for the command line interface.
 
@@ -16,7 +24,7 @@ In this exercise we are going to create a ticket booking application for the com
 - books the no. of tickets  user wants for the Gopher conference
 - shows the remaining tickets available
 
-### Let's Go with Golang:
+### Let's Go with Golang :
 
 1. We start by creating a main.go file in a folder named bookingapp and opening the folder in your desired code editor
 
@@ -299,6 +307,3 @@ we've finally completed our program and now it's time to build it into an execut
 
 #### Thats it !! You've completed your ticket booking application try to give faulty user input and see what kind of output you get and have fun with it.
  
-## To learn how to build this application in a video format you can go the link below , have fun  :
-
-- [TechWorldWithNana- ticket booking cli app](https://youtu.be/yyUHQIec83I) 
