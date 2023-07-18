@@ -79,6 +79,7 @@ func GreetUsers() {
 	fmt.Printf("Hurry! we only have %d seats remaining \n", remTicket)
 }
 
+// Func to take data from user
 func GetUserInput() (string, string, uint, string) {
 	var firstname string
 	var lastname string
