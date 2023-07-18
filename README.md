@@ -50,13 +50,13 @@
 <br>
 
 ## Loops
-- [Notes]-not available at the moment
+- [Notes](https://github.com/Yashsharma1911/Golang-tutorial/blob/main/Loops/README.md)
 - [Main.go file](https://github.com/Yashsharma1911/Golang-tutorial/blob/main/Loops/main.go)
 
 <br>
 
 ## Maps
-- [Notes]-not available at the moment
+- [Notes](https://github.com/Yashsharma1911/Golang-tutorial/blob/main/Maps/README.md)
 - [Main.go file](https://github.com/Yashsharma1911/Golang-tutorial/blob/main/Maps/main.go)
 
 <br>
