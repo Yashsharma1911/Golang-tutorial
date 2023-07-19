@@ -102,7 +102,7 @@ People _love_ thorough bug reports. I'm not even kidding.
   [ COMMIT_MSG ] should contain the meaningful text about file changes
 - Type `git push origin <NEW_BRANCH_NAME>`
 
-**After pushing changes to local your repo do the followings**
+**After pushing changes to your local repo do the followings**
 
 You will see the followings, click the `Compare & Pull Request` 
 ![image](https://github.com/SoumyadeepOSD/Golang-tutorial/assets/115442240/54ab8be0-78de-4751-be1f-592e9cebb8d0)
