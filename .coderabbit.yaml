@@ -1,0 +1,28 @@
+language: "en"
+early_access: false
+reviews:
+  high_level_summary: true
+  poem: true
+  review_status: true
+  collapse_walkthrough: false
+  path_filters:
+    - "!**/.xml"
+  path_instructions:
+    - path: "**.go"
+      instructions: "Review the Go code for conformity with the Go programming style guide, highlighting any deviations."
+    - path: "tests/**.*"
+      instructions: |
+        "Assess the unit test code employing the Mocha testing framework. Confirm that:
+        - The tests adhere to Mocha's established best practices.
+        - Test descriptions are sufficiently detailed to clarify the purpose of each test."
+  auto_review:
+    enabled: true
+    ignore_title_keywords:
+      - "WIP"
+      - "DO NOT MERGE"
+    drafts: false
+    base_branches:
+      - "develop"
+      - "feat/*"
+chat:
+  auto_reply: false
