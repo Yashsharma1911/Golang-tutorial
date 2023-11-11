@@ -25,4 +25,8 @@ func main() {
 	for _, value := range languages {
 		fmt.Printf("for key value is %v\n", value)
 	}
+
+        for _ value := range languages {
+		fmt.Printf("for key value is %v\n", value)
+	}
 }
